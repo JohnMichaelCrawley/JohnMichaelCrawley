@@ -19,6 +19,8 @@ and would love to talk directly with Japanese people
 I'm a causual gamer, I enjoy all sorts of video games as much as the next guy like Role-Playing-Games to shooters to science fiction.
 ## Research
 I enjoy randomly searching up on topics that interest me, I have been looking into addictions recently.
+# Guitar
+I love playing and learning songs on my accoustic and electric guitar
 ## Reading
 I've started enjoying to read, I've been currently reading through the follow:
 Title | Author/s | Genre
