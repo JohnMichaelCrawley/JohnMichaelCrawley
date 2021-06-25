@@ -4,7 +4,7 @@ I'm a third-year student studying a BSc (Honours) Computing degree at National C
 I'm self-teaching myself a secondary language which is Japanese and hope to pass N5 level at the end of year.
 I love software development, I have a big passion for development in iOS/Mac. 
 I'm currently building an iOS text adventure game 
-using technologies in Swift 5.5, Core Data, GIT and more and hope to have a release in November 2021.
+using technologies in Swift 5.5, Core Data, GIT and more and hope to have a release for Q4 2021
 
 
 # Interests
