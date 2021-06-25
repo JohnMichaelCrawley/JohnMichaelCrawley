@@ -22,7 +22,7 @@ I enjoy randomly searching up on topics that interest me, I have been looking in
 # Guitar
 I love playing and learning songs on my accoustic and electric guitar
 ## Reading
-I've started enjoying to read, I've been currently reading through the follow:
+I've started enjoying to read, I've been currently reading through the following:
 Title | Author/s | Genre
 ------------ | ------------- | ------------- 
 The Pragmatic Programmer | Andy Hunt/Dave Thomas | Education
