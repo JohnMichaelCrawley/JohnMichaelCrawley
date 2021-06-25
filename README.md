@@ -25,7 +25,7 @@ I love playing and learning songs on my accoustic and electric guitar
 I've started enjoying to read, I've been currently reading through the following:
 Title | Author/s | Genre
 ------------ | ------------- | ------------- 
-The Pragmatic Programmer | Andy Hunt/Dave Thomas | Education
+The Pragmatic Programmer | Andy Hunt, Dave Thomas | Education
 Genki 1 | Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, Kyoko Tokashiki | Education
 Perfume: The Story of a Murderer  | Patrick Süskind | Fiction 
 Junky | William. S. Burroughs | Semi-autobiographical novel
