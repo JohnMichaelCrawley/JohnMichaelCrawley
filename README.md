@@ -14,7 +14,7 @@ I plan to use Unreal Engine 5 and learn C++ to make games.
 As mentioned, I am currently undergoing language learning in Japanese, I enjoy Japanese culture and the language 
 and would love to talk directly with Japanese people
 ## Gaming 
-I'm a causual gamer, I enjoy all sorts of video games as much as the next guy like Role-Playing-Games to shooters to science fiction.
+I'm a casual gamer, I enjoy all sorts of video games as much as the next guy like Role-Playing-Games to shooters to science fiction.
 ## Research
 I enjoy randomly searching up on topics that interest me, I have been looking into addictions recently.
 # Guitar
