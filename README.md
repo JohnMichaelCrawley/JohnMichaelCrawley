@@ -1,13 +1,13 @@
 # Who am I?
 I'm John.
-I'm a third-year student studying a BSc (Honours) Computing degree at National College of Ireland. 
+I'm a final year student studying a BSc (Honours) Computing degree at National College of Ireland. 
 I'm self-teaching myself a secondary language which is Japanese and hope to pass N5 level at the end of year.
 I love software development with a passion and love the aspects like the planning process and the setting up Jira/GIT and organising how to execute a project. I have a big passion for development in iOS/Mac. I'm currently building an iOS text adventure game using technologies in Swift 5.5, Core Data, GIT and more and hope to have a release for Q4 2021 on the App Store. 
 
 
 # Interests
 ## Futher Software Development
-I like to go outside what I know. I want to learn about technologies in machine learning, artificial intelligence and more. 
+I like to go outside what I know. I want to learn about technologies in machine learning, artificial intelligence and more. I love working in iOS technologies using Swift.
 I believe in always learning new things. I would also like to learn about game-development and strictly make games as a hobby. 
 I plan to use Unreal Engine 5 and learn C++ to make games. 
 ## Language Learning 
